@@ -1,1 +1,1 @@
-weifpewifpewfpoe
+print(hello)
